@@ -4,7 +4,7 @@
 #define endl "\n"
 
 using namespace std;
-
+//1780backjun 분할정복 문제.
 vector<vector<int>> Array;
 int MaxN;
 int mione=0, zero=0, one=0;
